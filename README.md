@@ -49,3 +49,9 @@ xdg-desktop-portal-hyprland-git
 ```
 yay -S brightnessctl catppuccin-gtk-theme-mocha hyprland-bin polkit-gnome rofi pavycontrol thunar starship swaybg playerctl thunar-archive-plugin kitty waybar-hyprland wlogout swaylock-effectspamixernwg-look-bin nordic-theme papirus-icon-theme dunst brave-browser cava discord nmtui-connect xdg-desktop-portal-hyprland-git
 ```
+
+
+
+
+<h3>Source</h3>
+https://github.com/linuxmobile/hyprland-dots
